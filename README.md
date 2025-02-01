@@ -22,6 +22,7 @@ The following **required** functionality is completed:
 
 ## App Brainstorming (Step 4)
    List of favorite apps:
+   
     Tiktok
      - Easy video editing tools
      - Personalized for you page/algorithm
