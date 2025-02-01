@@ -38,7 +38,8 @@ The following **required** functionality is completed:
       
  App I would like to build:
  
-  Local Event Discovery App. The app helps users to find nearby events based on their interests
+  Local Event Discovery App. 
+  The app helps users to find nearby events based on their interests
   featers:
     -Personalized Recommendations
     - RSVP & Ticket
