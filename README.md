@@ -37,6 +37,7 @@ The following **required** functionality is completed:
       - Multi-location forecasts
       
  App I would like to build:
+ 
   Local Event Discovery App. The app helps users to find nearby events based on their interests
   featers:
     -Personalized Recommendations
